@@ -37,13 +37,14 @@ As part of a fictional organization used in the Google Cybersecurity program, th
 This simulates the real-world role of a Cybersecurity Analyst performing internal audit duties.
 
 📂 Files Included in This Repository
-File	                                  Description
-Scenario.md 	                          A fictional company which requires an audit
-Scope-goal and risk-assessment_report.pdf Likelihood × impact scoring for identified risks
-Controls_checklist.pdf	                  Access control checklist completed during the assessment
-Compliance_checklist.pdf	              Audit checklist completed during the assessment
-Analysis.md                               Findings, risks, and recommendations
-README.md	                              Overview and explanation of the project
+
+       File	                                                    Description
+    Scenario.md 	                           A fictional company which requires an audit
+    Scope-goal and risk-assessment_report.pdf  Likelihood × impact scoring for identified risks
+    Controls_checklist.pdf	                   Access control checklist completed during the assessment
+    Compliance_checklist.pdf	               Audit checklist completed during the assessment
+    Analysis.md                                Findings, risks, and recommendations
+    README.md	                               Overview and explanation of the project
 
 
 ## 📝 Audit Methodology
