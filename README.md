@@ -36,7 +36,7 @@ As part of a fictional organization used in the Google Cybersecurity program, th
 
 This simulates the real-world role of a Cybersecurity Analyst performing internal audit duties.
 
-📂 Files Included in This Repository
+## 📂 Files Included in This Repository
 
        File	                                                    Description
     Scenario.md 	                           A fictional company which requires an audit
