@@ -117,8 +117,6 @@ Insufficient log monitoring and alerting
 
 Implement role-based access control (RBAC)
 
-Update and document firewall rules
-
 Enforce MFA for all privileged users
 
 Establish centralized log monitoring (SIEM)
